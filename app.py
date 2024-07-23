@@ -1,5 +1,7 @@
 """Integrating the model in our API Server
 
+Link to documentation: 
+https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html
 The server we wrote is quite trivial and may not do everything you
 need for your production application. So, here are some things you
 can do to make it better:
